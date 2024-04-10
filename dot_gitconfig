@@ -1,0 +1,11 @@
+[user]
+	email = eric@ericthomas.ca
+	name = Eric Thomas
+[init]
+	defaultBranch = main
+[credential]
+	helper = 
+	helper = /usr/bin/git-credential-manager
+	credentialStore = secretservice
+[credential "https://dev.azure.com"]
+	useHttpPath = true
