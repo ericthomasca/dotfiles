@@ -1,0 +1,2 @@
+alias ls='eza -lah --icons --group-directories-first'
+alias grep='grep --color=auto'
