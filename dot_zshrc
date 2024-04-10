@@ -1,0 +1,27 @@
+# zsh-newuser-install
+HISTFILE=$HOME/.histfile
+HISTSIZE=1000
+SAVEHIST=1000
+setopt extendedglob
+bindkey -e
+
+# compinstall
+zstyle :compinstall filename '/home/eric/.zshrc'
+autoload -Uz compinit
+compinit
+
+# Syntax highlighting and autosuggestions
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+# Command not found
+source /usr/share/doc/pkgfile/command-not-found.zsh
+
+# Aliases
+source $HOME/.aliases
+
+# Atuin
+eval "$(atuin init zsh)"
+
+# Starship
+eval "$(starship init zsh)"
