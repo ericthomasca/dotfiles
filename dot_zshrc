@@ -23,5 +23,8 @@ source $HOME/.aliases
 # Atuin
 eval "$(atuin init zsh)"
 
+# NVM
+source /usr/share/nvm/init-nvm.sh
+
 # Starship
 eval "$(starship init zsh)"
