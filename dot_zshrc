@@ -10,6 +10,10 @@ zstyle :compinstall filename '/home/eric/.zshrc'
 autoload -Uz compinit
 compinit
 
+# Exports
+export PATH="$PATH:/home/eric/.dotnet/tools"
+export EDITOR=nvim
+
 # Syntax highlighting and autosuggestions
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
