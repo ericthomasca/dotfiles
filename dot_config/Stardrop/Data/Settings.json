@@ -1,0 +1,28 @@
+{
+  "Theme": "Stardrop",
+  "Language": "English",
+  "ModGroupingMethod": 0,
+  "Version": "1.1.2",
+  "LastSelectedProfileName": "Default",
+  "SMAPIFolderPath": "/home/eric/Games/StardewValley/game",
+  "ModFolderPath": "/home/eric/Games/StardewValley/game/Mods",
+  "ModInstallPath": "/home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods",
+  "IgnoreHiddenFolders": true,
+  "EnableProfileSpecificModConfigs": false,
+  "ShouldWriteToModConfigs": false,
+  "EnableModsOnAdd": false,
+  "AlwaysAskToDelete": true,
+  "ShouldAutomaticallySaveProfileChanges": true,
+  "PreferredNexusServer": 0,
+  "IsAskingBeforeAcceptingNXM": true,
+  "GameDetails": {
+    "GameVersion": "1.6.3",
+    "SmapiVersion": "4.0.6",
+    "System": 1
+  },
+  "NexusDetails": {
+    "Username": "electrona",
+    "IsPremium": false,
+    "Key": "oDEDrEroEAwtc4aPs9rRLfdIpGLycDvDBjYbmmazneZzakhpzEAH08UFfq5CbuWq+Vn6toRXc8WgCSR6wVd0+TQ3gAx5wH21X36rHgLbOfIUXYrT/f3TgrfrthDEzpfM"
+  }
+}

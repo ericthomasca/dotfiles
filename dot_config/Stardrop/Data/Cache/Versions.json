@@ -1,0 +1,23 @@
+{
+  "LastRuntime": "2024-04-17T20:02:01.6767498-02:30",
+  "Mods": [
+    {
+      "UniqueId": "Pathoschild.ContentPatcher",
+      "SuggestedVersion": "2.0.6",
+      "Status": 0,
+      "Link": "https://www.nexusmods.com/stardewvalley/mods/1915"
+    },
+    {
+      "UniqueId": "ChaosEnergy.LadderLocator",
+      "SuggestedVersion": "1.5.1",
+      "Status": 0,
+      "Link": "https://www.nexusmods.com/stardewvalley/mods/3094"
+    },
+    {
+      "UniqueId": "Pathoschild.Automate",
+      "SuggestedVersion": "2.0.7",
+      "Status": 0,
+      "Link": "https://www.nexusmods.com/stardewvalley/mods/1063"
+    }
+  ]
+}

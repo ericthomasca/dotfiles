@@ -1,0 +1,152 @@
+[2024-04-17 7:59:02p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Program.Main: Line 75] 
+-- Startup Data --
+Time: 2024-04-17 7:59:02p.m.
+OS: [Unix] Linux 6.8.6-arch1-1 #1 SMP PREEMPT_DYNAMIC Sat, 13 Apr 2024 14:42:24 +0000
+Settings Directory: /home/eric/.config/Stardrop/Data
+Active Directory: /home/eric/Games/Stardrop
+Version: v1.1.2
+----------------------
+
+[2024-04-17 7:59:02p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Program.Main: Line 76] Started with the following arguments: 
+[2024-04-17 7:59:03p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language de
+[2024-04-17 7:59:03p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language default
+[2024-04-17 7:59:03p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language es
+[2024-04-17 7:59:03p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language fr
+[2024-04-17 7:59:03p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language it
+[2024-04-17 7:59:03p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language pt
+[2024-04-17 7:59:03p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language ru
+[2024-04-17 7:59:03p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language th
+[2024-04-17 7:59:03p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language tr
+[2024-04-17 7:59:03p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language uk
+[2024-04-17 7:59:03p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language zh
+[2024-04-17 7:59:03p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language hu
+LogHost: Initializing to normal mode (.cctor)
+[2024-04-17 7:59:04p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language de
+[2024-04-17 7:59:04p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language default
+[2024-04-17 7:59:04p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language es
+[2024-04-17 7:59:04p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language fr
+[2024-04-17 7:59:04p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language it
+[2024-04-17 7:59:04p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language pt
+[2024-04-17 7:59:04p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language ru
+[2024-04-17 7:59:04p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language th
+[2024-04-17 7:59:04p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language tr
+[2024-04-17 7:59:04p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language uk
+[2024-04-17 7:59:04p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language zh
+[2024-04-17 7:59:04p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Utilities\Translation.LoadTranslations: Line 117] Loaded language hu
+[2024-04-17 7:59:04p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\App.Initialize: Line 39] Loaded theme Dark
+[2024-04-17 7:59:04p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\App.Initialize: Line 39] Loaded theme Light
+[2024-04-17 7:59:05p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\App.Initialize: Line 39] Loaded theme Solarized-Lite
+[2024-04-17 7:59:05p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\App.Initialize: Line 39] Loaded theme Stardrop
+[Binding] Error in binding to 'Avalonia.Controls.NativeMenuItem'.'Command': 'Null value in expression '{empty}' at ''.' (NativeMenuItem #6864370)
+[Binding] Error in binding to 'Avalonia.Controls.DataGridTemplateColumn'.'IsVisible': 'Null value in expression '{empty}' at ''.' (DataGridTemplateColumn #38712842)
+[Binding] Error in binding to 'Avalonia.Controls.DataGridTemplateColumn'.'IsVisible': 'Null value in expression '{empty}' at ''.' (DataGridTemplateColumn #2362032)
+[2024-04-17 7:59:06p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.CheckForModUpdates: Line 1791] Attempting to check for mod updates via cache
+[2024-04-17 7:59:06p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.CheckForNexusConnection: Line 1983] Attempting to check for Nexus Mods connection (Has Key: True)
+[2024-04-17 7:59:06p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow..ctor: Line 198] Initialization complete!
+[2024-04-17 7:59:07p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.MainWindow_Opened: Line 283] Setting window size according to settings: 1430x800 (245, 163)
+[2024-04-17 7:59:07p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.CheckForModUpdates: Line 1917] Update available for Pathoschild.ContentPatcher (v2.0.6): https://www.nexusmods.com/stardewvalley/mods/1915
+[2024-04-17 7:59:07p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.CheckForModUpdates: Line 1917] Update available for ChaosEnergy.LadderLocator (v1.5.1): https://www.nexusmods.com/stardewvalley/mods/3094
+[2024-04-17 7:59:07p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.CheckForModUpdates: Line 1917] Update available for Pathoschild.Automate (v2.0.7): https://www.nexusmods.com/stardewvalley/mods/1063
+[2024-04-17 7:59:07p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.CheckForModUpdates: Line 1969] Mod update check via cache completed without error
+[2024-04-17 7:59:07p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.CheckForNexusConnection: Line 1987] Nexus Mods connection established.
+[2024-04-17 7:59:08p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MessageWindow..ctor: Line 28] Created a message window with the following text: [ | ] Stardrop updated successfully.
+
+Would you like to see the release notes?
+[2024-04-17 8:01:42p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2151] Add mods request received (00000000-0000-0000-0000-000000000000): Pending
+[2024-04-17 8:01:42p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2156] Add mods request received (00000000-0000-0000-0000-000000000000): Accepted
+[2024-04-17 8:01:44p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.CheckForNexusConnection: Line 1983] Attempting to check for Nexus Mods connection (Has Key: True)
+[2024-04-17 8:01:44p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2190] Automate/manifest.json
+[2024-04-17 8:01:45p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow._lockSentinelTimer_Tick: Line 462] Detected lock state request (Attempting to install 1 mod(s)): Locking main window!
+[2024-04-17 8:01:45p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\WarningWindow..ctor: Line 36] Created a warning window with the following text: [] Attempting to install 1 mod(s)
+[2024-04-17 8:01:45p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.CheckForNexusConnection: Line 1987] Nexus Mods connection established.
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.UpdateLockWindow: Line 1720] Attempting to update lock window with the following parameters: Deleting old instance of Automate 1 1
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.UpdateLockWindow: Line 1732] Successfully updated lock window!
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.DeleteMod: Line 2137] Attempting to delete the mod Automate
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.UpdateLockWindow: Line 1720] Attempting to update lock window with the following parameters: [1 / 1] Mods
+[1 / 1] Manifests
+
+Updating Automate 1 1
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.UpdateLockWindow: Line 1732] Successfully updated lock window!
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2284] Install path for mod Pathoschild.Automate:/home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/manifest.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/manifest.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/de.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/de.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/default.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/default.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/es.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/es.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/fr.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/fr.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/hu.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/hu.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/it.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/it.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/ko.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/ko.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/pt.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/pt.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/ru.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/ru.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/th.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/th.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/tr.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/tr.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/uk.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/uk.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/zh.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/i18n/zh.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/assets/data.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/assets/data.json
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/Automate.dll
+[2024-04-17 8:01:46p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/Automate/Automate.dll
+[2024-04-17 8:01:48p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2375] Add mods request received (00000000-0000-0000-0000-000000000000): Processed
+[2024-04-17 8:01:48p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.CheckForModUpdates: Line 1791] Attempting to check for mod updates via cache
+[2024-04-17 8:01:49p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.CheckForModUpdates: Line 1969] Mod update check via cache completed without error
+[2024-04-17 8:01:55p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2151] Add mods request received (00000000-0000-0000-0000-000000000000): Pending
+[2024-04-17 8:01:55p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2156] Add mods request received (00000000-0000-0000-0000-000000000000): Accepted
+[2024-04-17 8:01:57p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.CheckForNexusConnection: Line 1983] Attempting to check for Nexus Mods connection (Has Key: True)
+[2024-04-17 8:01:57p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2190] ContentPatcher/manifest.json
+[2024-04-17 8:01:57p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow._lockSentinelTimer_Tick: Line 462] Detected lock state request (Attempting to install 2 mod(s)): Locking main window!
+[2024-04-17 8:01:57p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\WarningWindow..ctor: Line 36] Created a warning window with the following text: [] Attempting to install 2 mod(s)
+[2024-04-17 8:01:57p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.CheckForNexusConnection: Line 1987] Nexus Mods connection established.
+[2024-04-17 8:01:58p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.UpdateLockWindow: Line 1720] Attempting to update lock window with the following parameters: Deleting old instance of Content Patcher 1 1
+[2024-04-17 8:01:58p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.UpdateLockWindow: Line 1732] Successfully updated lock window!
+[2024-04-17 8:01:58p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.DeleteMod: Line 2137] Attempting to delete the mod Content Patcher
+[2024-04-17 8:01:58p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.UpdateLockWindow: Line 1720] Attempting to update lock window with the following parameters: [1 / 2] Mods
+[1 / 1] Manifests
+
+Updating Content Patcher 1 1
+[2024-04-17 8:01:58p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.UpdateLockWindow: Line 1732] Successfully updated lock window!
+[2024-04-17 8:01:58p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2284] Install path for mod Pathoschild.ContentPatcher:/home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/ContentPatcher
+[2024-04-17 8:01:58p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/ContentPatcher/manifest.json
+[2024-04-17 8:01:58p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/ContentPatcher/manifest.json
+[2024-04-17 8:01:58p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/ContentPatcher/ContentPatcher.dll
+[2024-04-17 8:01:58p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/ContentPatcher/ContentPatcher.dll
+[2024-04-17 8:01:58p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2190] LadderLocator/manifest.json
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.UpdateLockWindow: Line 1720] Attempting to update lock window with the following parameters: Deleting old instance of LadderLocator 1 1
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.UpdateLockWindow: Line 1732] Successfully updated lock window!
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.DeleteMod: Line 2137] Attempting to delete the mod LadderLocator
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.UpdateLockWindow: Line 1720] Attempting to update lock window with the following parameters: [2 / 2] Mods
+[1 / 1] Manifests
+
+Updating LadderLocator 1 1
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.UpdateLockWindow: Line 1732] Successfully updated lock window!
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2284] Install path for mod ChaosEnergy.LadderLocator:/home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/LadderLocator
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/LadderLocator/manifest.json
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/LadderLocator/manifest.json
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/LadderLocator/i18n/default.json
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/LadderLocator/i18n/default.json
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/LadderLocator/i18n/ja.json
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/LadderLocator/i18n/ja.json
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/LadderLocator/i18n/zh.json
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/LadderLocator/i18n/zh.json
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/LadderLocator/cracked.png
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/LadderLocator/cracked.png
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/LadderLocator/LadderLocator.dll
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/LadderLocator/LadderLocator.dll
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2302] /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/LadderLocator/rockShadow.png
+[2024-04-17 8:02:00p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2320] Writing mod file to /home/eric/Games/StardewValley/game/Mods/Stardrop Installed Mods/LadderLocator/rockShadow.png
+[2024-04-17 8:02:01p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.AddMods: Line 2375] Add mods request received (00000000-0000-0000-0000-000000000000): Processed
+[2024-04-17 8:02:01p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.CheckForModUpdates: Line 1791] Attempting to check for mod updates via cache
+[2024-04-17 8:02:02p.m.][Debug][C:\Users\Floogen\Documents\GitHub Repos\Stardrop\Stardrop\Views\MainWindow.CheckForModUpdates: Line 1969] Mod update check via cache completed without error

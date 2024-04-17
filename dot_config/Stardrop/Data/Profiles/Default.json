@@ -1,0 +1,9 @@
+{
+  "Name": "Default",
+  "IsProtected": true,
+  "EnabledModIds": [
+    "SMAPI.ConsoleCommands",
+    "SMAPI.SaveBackup"
+  ],
+  "PreservedModConfigs": {}
+}
