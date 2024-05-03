@@ -5,6 +5,3 @@
 	defaultBranch = main
 [credential]
 	credentialStore = secretservice
-	helper = /home/eric/.dotnet/tools/git-credential-manager
-[credential "https://dev.azure.com"]
-	useHttpPath = true
