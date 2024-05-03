@@ -30,5 +30,8 @@ eval "$(atuin init zsh)"
 # NVM
 source /usr/share/nvm/init-nvm.sh
 
+# rbenv
+eval "$(rbenv init - zsh)"
+
 # Starship
 eval "$(starship init zsh)"
