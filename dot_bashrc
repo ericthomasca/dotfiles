@@ -8,6 +8,9 @@
 # Aliases
 source $HOME/.aliases
 
+# rbenv
+eval "$(rbenv init - bash)"
+
 # Starship
 eval "$(starship init bash)"
 
