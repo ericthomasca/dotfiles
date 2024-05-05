@@ -23,6 +23,9 @@ source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 # Aliases
 source $HOME/.aliases
 
+# pipx
+eval "$(register-python-argcomplete pipx)"
+
 # Atuin
 eval "$(atuin init zsh)"
 
