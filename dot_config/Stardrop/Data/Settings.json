@@ -2,7 +2,7 @@
   "Theme": "Stardrop",
   "Language": "English",
   "ModGroupingMethod": 0,
-  "Version": "1.1.2",
+  "Version": "1.2.0",
   "LastSelectedProfileName": "Default",
   "SMAPIFolderPath": "/home/eric/Games/StardewValley/game",
   "ModFolderPath": "/home/eric/Games/StardewValley/game/Mods",
@@ -17,7 +17,7 @@
   "IsAskingBeforeAcceptingNXM": true,
   "GameDetails": {
     "GameVersion": "1.6.3",
-    "SmapiVersion": "4.0.6",
+    "SmapiVersion": "4.0.8",
     "System": 1
   },
   "NexusDetails": {

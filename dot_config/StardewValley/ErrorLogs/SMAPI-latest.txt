@@ -1,30 +1,1108 @@
-[22:52:21 INFO  SMAPI] SMAPI 4.0.6 with Stardew Valley 1.6.3 build 24087 on Unix 6.8.4.1
-[22:52:21 INFO  SMAPI] Mods go here: /home/eric/.config/Stardrop/Data/Selected Mods
-[22:52:21 TRACE SMAPI] (Using custom --mods-path argument. Game folder: /home/eric/Games/StardewValley/game.)
-[22:52:21 TRACE SMAPI] Log started at 2024-04-10T01:22:21 UTC
-[22:52:26 DEBUG SMAPI] Waiting for game to launch...
-[22:52:27 DEBUG SMAPI] Loading mod metadata...
-[22:52:27 DEBUG SMAPI] Loading mods...
-[22:52:27 TRACE SMAPI]    Save Backup (from Selected Mods/SaveBackup/SaveBackup.dll, ID: SMAPI.SaveBackup)...
-[22:52:27 TRACE SMAPI]       Detected direct console access (System.Console type) in assembly SaveBackup.dll.
-[22:52:27 TRACE SMAPI]    Console Commands (from Selected Mods/ConsoleCommands/ConsoleCommands.dll, ID: SMAPI.ConsoleCommands)...
-[22:52:27 INFO  SMAPI] Loaded 2 mods:
-[22:52:27 INFO  SMAPI]    Console Commands 4.0.6 by SMAPI | Adds SMAPI console commands that let you manipulate the game.
-[22:52:27 INFO  SMAPI]    Save Backup 4.0.6 by SMAPI | Automatically backs up all your saves once per day into its folder.
+[14:02:37 INFO  SMAPI] SMAPI 4.0.8 with Stardew Valley 1.6.8 build 24119 on Unix 6.8.9.1
+[14:02:37 INFO  SMAPI] Mods go here: /home/eric/Games/StardewValley/game/Mods
+[14:02:37 TRACE SMAPI] Log started at 2024-05-04T16:32:37 UTC
+[14:02:40 DEBUG SMAPI] Waiting for game to launch...
+[14:02:41 DEBUG SMAPI] Loading mod metadata...
+[14:02:41 DEBUG SMAPI] Loading mods...
+[14:02:41 TRACE SMAPI]    Console Commands (from Mods/ConsoleCommands/ConsoleCommands.dll, ID: SMAPI.ConsoleCommands)...
+[14:02:41 TRACE SMAPI]    Generic Mod Config Menu (from Mods/Stardrop Installed Mods/GenericModConfigMenu/GenericModConfigMenu.dll, ID: spacechase0.GenericModConfigMenu)...
+[14:02:41 TRACE SMAPI]    Better Friendship (from Mods/Stardrop Installed Mods/BetterFriendship/BetterFriendship.dll, ID: BetterFriendship)...
+[14:02:41 TRACE SMAPI]    Content Patcher (from Mods/Stardrop Installed Mods/ContentPatcher/ContentPatcher.dll, ID: Pathoschild.ContentPatcher)...
+[14:02:42 TRACE SMAPI]       Rewrote ContentPatcher.dll to fix ClickableTextureComponent.draw (added missing optional parameters)...
+[14:02:42 TRACE SMAPI]    StardewHack (from Mods/Stardrop Installed Mods/StardewHack/StardewHack.dll, ID: bcmpinc.StardewHack)...
+[14:02:42 TRACE SMAPI]       Detected game patcher in assembly StardewHack.dll.
+[14:02:42 TRACE SMAPI]    Bigger Backpack (from Mods/Stardrop Installed Mods/BiggerBackpack/BiggerBackpack.dll, ID: spacechase0.BiggerBackpack)...
+[14:02:42 TRACE SMAPI]       Detected game patcher in assembly BiggerBackpack.dll.
+[14:02:42 TRACE SMAPI]    SkullCavernElevator (from Mods/Stardrop Installed Mods/SkullCavernElevator/SkullCavernElevator.dll, ID: SkullCavernElevator)...
+[14:02:42 TRACE SMAPI]    StardustCore (from Mods/Stardrop Installed Mods/StardustCore/StardustCore.dll, ID: Omegasis.StardustCore)...
+[14:02:42 TRACE SMAPI]       Rewrote StardustCore.dll to fix ClickableTextureComponent.draw (added missing optional parameters)...
+[14:02:42 TRACE SMAPI]    Happy Birthday (from Mods/Stardrop Installed Mods/HappyBirthday/HappyBirthday.dll, ID: Omegasis.HappyBirthday)...
+[14:02:42 TRACE SMAPI]       Rewrote HappyBirthday.dll to fix Game1.getCharacterFromName method...
+[14:02:42 TRACE SMAPI]       Rewrote HappyBirthday.dll to fix ClickableTextureComponent.draw (added missing optional parameters)...
+[14:02:42 TRACE SMAPI]    Happy Birthday en-US Translation Content Pack (from Mods/Stardrop Installed Mods/HappyBirthdayContentPack en-US, ID: Omegasis.HappyBirthday.ContentPack.en-US) [content pack]...
+[14:02:42 TRACE SMAPI]    Skip Intro (from Mods/Stardrop Installed Mods/SkipIntro/SkipIntro.dll, ID: Pathoschild.SkipIntro)...
+[14:02:42 TRACE SMAPI]       Rewrote SkipIntro.dll to fix ClickableTextureComponent.draw (added missing optional parameters)...
+[14:02:42 TRACE SMAPI]    LadderLocator (from Mods/Stardrop Installed Mods/LadderLocator/LadderLocator.dll, ID: ChaosEnergy.LadderLocator)...
+[14:02:42 TRACE SMAPI]       Rewrote LadderLocator.dll to fix 32-bit architecture...
+[14:02:42 TRACE SMAPI]    Yet Another Fishing Mod (from Mods/Stardrop Installed Mods/YetAnotherFishingMod/YetAnotherFishingMod.dll, ID: NeverToxic.YetAnotherFishingMod)...
+[14:02:42 TRACE SMAPI]       Detected game patcher in assembly YetAnotherFishingMod.dll.
+[14:02:42 TRACE SMAPI]    Wear More Rings (from Mods/Stardrop Installed Mods/WearMoreRings/WearMoreRings.dll, ID: bcmpinc.WearMoreRings)...
+[14:02:42 TRACE SMAPI]       Detected game patcher in assembly WearMoreRings.dll.
+[14:02:42 TRACE SMAPI]    Wyrd's Seasonal Mailboxes (from Mods/Stardrop Installed Mods/[CP] Wyrd's Seasonal Mailboxes, ID: logwyrd.WyrdsSeasonalMailboxes) [content pack]...
+[14:02:42 TRACE SMAPI]    SpaceCore (from Mods/Stardrop Installed Mods/SpaceCore/SpaceCore.dll, ID: spacechase0.SpaceCore)...
+[14:02:42 TRACE SMAPI]       Detected game patcher in assembly SpaceCore.dll.
+[14:02:42 TRACE SMAPI]       Detected possible save serializer change (StardewValley.SaveGame.farmerSerializer field, StardewValley.SaveGame.locationSerializer field, StardewValley.SaveGame.serializer field) in assembly SpaceCore.dll.
+[14:02:42 TRACE SMAPI]       Detected direct console access (System.Console type) in assembly SpaceCore.dll.
+[14:02:42 TRACE SMAPI]    Automate (from Mods/Stardrop Installed Mods/Automate/Automate.dll, ID: Pathoschild.Automate)...
+[14:02:42 TRACE SMAPI]       Rewrote Automate.dll to fix ClickableTextureComponent.draw (added missing optional parameters)...
+[14:02:42 TRACE SMAPI]    NPC Map Locations (from Mods/Stardrop Installed Mods/NPCMapLocations/NPCMapLocations.dll, ID: Bouhm.NPCMapLocations)...
+[14:02:42 TRACE SMAPI]    Better Ranching (from Mods/Stardrop Installed Mods/BetterRanching/BetterRanching.dll, ID: BetterRanching)...
+[14:02:42 TRACE SMAPI]    Save Backup (from Mods/SaveBackup/SaveBackup.dll, ID: SMAPI.SaveBackup)...
+[14:02:42 INFO  SMAPI] Loaded 18 mods:
+[14:02:42 INFO  SMAPI]    Automate 2.0.7 by Pathoschild | Lets you automate crafting machines, fruit trees, and more by connecting them to chests.
+[14:02:42 INFO  SMAPI]    Better Friendship 1.1.2 by Urbanyeti | Adds thought bubbles over villagers to indicate their favorite gifts from your inventory and when they'd like to talk.
+[14:02:42 INFO  SMAPI]    Better Ranching 2.0.4 by Urbanyeti | Prevents failed milk/shear attempts and displays when animals can be milked/sheared and petted.
+[14:02:42 INFO  SMAPI]    Bigger Backpack 7.1.0 by spacechase0, yoseiri, bcmpinc | Adds another backpack size.
+[14:02:42 INFO  SMAPI]    Console Commands 4.0.8 by SMAPI | Adds SMAPI console commands that let you manipulate the game.
+[14:02:42 INFO  SMAPI]    Content Patcher 2.0.6 by Pathoschild | Loads content packs which edit game data, images, and maps without changing the game files.
+[14:02:42 INFO  SMAPI]    Generic Mod Config Menu 1.12.0 by spacechase0 | Adds an in-game UI to edit other mods' config options (for mods which support it).
+[14:02:42 INFO  SMAPI]    Happy Birthday 3.18.2 by Alpha_Omegasis | Adds the farmer's birthday to the game.
+[14:02:42 INFO  SMAPI]    LadderLocator 1.5.1 by ChaosEnergy | Finds ladders and ores in the mines.
+[14:02:42 INFO  SMAPI]    NPC Map Locations 3.1.0 by Bouhm | Shows NPCs and farmers on a modified map page for accurate tracking.
+[14:02:42 INFO  SMAPI]    Save Backup 4.0.8 by SMAPI | Automatically backs up all your saves once per day into its folder.
+[14:02:42 INFO  SMAPI]    Skip Intro 1.9.16 by Pathoschild | Skips the game's loading intro.
+[14:02:42 INFO  SMAPI]    SkullCavernElevator 1.6.1 by lestoph | Elevator for the Skull Cavern
+[14:02:42 INFO  SMAPI]    SpaceCore 1.23.1 by spacechase0 | A framework mod used by some of my other mods.
+[14:02:42 INFO  SMAPI]    StardewHack 7.2.0 by bcmpinc | Transpilation library used by my other mods. Doesn't do much on its own.
+[14:02:42 INFO  SMAPI]    StardustCore 3.0.0 by Alpha_Omegasis | A core mod that allows for other mods of mine to be run.
+[14:02:42 INFO  SMAPI]    Wear More Rings 7.4.0 by bcmpinc | Adds additional ring slots to your inventory.
+[14:02:42 INFO  SMAPI]    Yet Another Fishing Mod 1.1.2 by NeverToxic | Automatically catch fish and treasure.
 
-[22:52:27 INFO  SMAPI] Found 1 mod with warnings:
-[22:52:27 DEBUG SMAPI] Launching mods...
-[22:52:27 DEBUG SMAPI] Mods loaded and ready!
-[22:52:27 TRACE SMAPI] Checking for updates...
-[22:52:27 TRACE Save Backup] Backed up to /home/eric/Games/StardewValley/game/save-backups/2024-04-10 - SMAPI 4.0.6 with Stardew Valley 1.6.3.zip.
-[22:52:27 TRACE Save Backup] Deleting 2024-03-31 - SMAPI 4.0.3 with Stardew Valley 1.6.3.zip...
-[22:52:28 TRACE game] setGameMode( 'titleScreenGameMode (0)' )
-[22:52:28 TRACE SMAPI]    SMAPI okay.
-[22:52:28 TRACE SMAPI]    Checking for updates to 0 mods...
-[22:52:28 INFO  SMAPI] Type 'help' for help, or 'help <cmd>' for a command's usage
-[22:52:28 TRACE SMAPI]    All mods up to date.
-[22:52:28 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
-[22:52:43 ERROR game] Galaxy auth failure: FAILURE_REASON_GALAXY_SERVICE_NOT_AVAILABLE
-[22:52:44 TRACE game] Disconnected: ClosedGame
-[22:52:44 TRACE SMAPI] Disposing...
-[22:52:44 TRACE SMAPI] Disposing the content coordinator. Content managers will no longer be usable after this point.
+[14:02:42 INFO  SMAPI] Loaded 2 content packs:
+[14:02:42 INFO  SMAPI]    Happy Birthday en-US Translation Content Pack 1.5.0 by Omegasis | for Happy Birthday | A content pack that contains English translations for the mod, Happy Birthday.
+[14:02:42 INFO  SMAPI]    Wyrd's Seasonal Mailboxes 2.0.0 by logwyrd | for Content Patcher | Content Patcher mod that changes 1.6 mailbox textures for farmhouse and cabins.
+
+[14:02:42 INFO  SMAPI] Found 5 mods with warnings:
+[14:02:42 WARN  SMAPI]    Changed save serializer
+[14:02:42 WARN  SMAPI]    --------------------------------------------------
+[14:02:42 WARN  SMAPI]       These mods change the save serializer. They may corrupt your save files, or make them unusable if
+[14:02:42 WARN  SMAPI]       you uninstall these mods.
+
+[14:02:42 WARN  SMAPI]       - SpaceCore
+
+[14:02:42 INFO  SMAPI]    Patched game code
+[14:02:42 INFO  SMAPI]    --------------------------------------------------
+[14:02:42 INFO  SMAPI]       These mods directly change the game code. They're more likely to cause errors or bugs in-game; if
+[14:02:42 INFO  SMAPI]       your game has issues, try removing these first. Otherwise you can ignore this warning.
+
+[14:02:42 INFO  SMAPI]       - Bigger Backpack
+[14:02:42 INFO  SMAPI]       - SpaceCore
+[14:02:42 INFO  SMAPI]       - StardewHack
+[14:02:42 INFO  SMAPI]       - Wear More Rings
+[14:02:42 INFO  SMAPI]       - Yet Another Fishing Mod
+
+[14:02:42 DEBUG SMAPI] Launching mods...
+[14:02:42 TRACE SMAPI]    Found mod-provided API (ContentPatcher.Framework.ContentPatcherAPI).
+[14:02:42 INFO  StardewHack] Loaded StardewHack library v7.2.0 using Harmony v2.2.2.0.
+[14:02:42 DEBUG Bigger Backpack] Applying bytecode patches for spacechase0.BiggerBackpack.
+[14:02:42 TRACE Bigger Backpack] Applying patch JunimoNoteMenu_setUpMenu to Void setUpMenu(Int32, System.Collections.Generic.Dictionary`2[System.Int32,System.Boolean[]]) in StardewValley.Menus.JunimoNoteMenu.
+[14:02:42 TRACE Bigger Backpack] Applying patch ShippingMenu_ctor to Void .ctor(highlightThisItem, Boolean, Boolean, Int32, Int32, Int32, StardewValley.Menus.ItemExitBehavior, Boolean) in StardewValley.Menus.MenuWithInventory.
+[14:02:42 TRACE Bigger Backpack] Applying patch ShopMenu_drawCurrency to Void drawCurrency(Microsoft.Xna.Framework.Graphics.SpriteBatch) in StardewValley.Menus.ShopMenu.
+[14:02:42 TRACE Bigger Backpack] Applying patch ShopMenu_draw to Void draw(Microsoft.Xna.Framework.Graphics.SpriteBatch) in StardewValley.Menus.ShopMenu.
+[14:02:42 TRACE Bigger Backpack] Applying patch ShopMenu_Initialize to Void Initialize(Int32, System.Func`4[StardewValley.ISalable,StardewValley.Farmer,System.Int32,System.Boolean], System.Func`2[StardewValley.ISalable,System.Boolean], Boolean) in StardewValley.Menus.ShopMenu.
+[14:02:42 TRACE Bigger Backpack] Applying patch CraftingPage_ctor to Void .ctor(Int32, Int32, Int32, Int32, Boolean, Boolean, System.Collections.Generic.List`1[StardewValley.Inventories.IInventory]) in StardewValley.Menus.CraftingPage.
+[14:02:42 TRACE Bigger Backpack] Applying patch InventoryPage_draw to Void draw(Microsoft.Xna.Framework.Graphics.SpriteBatch) in StardewValley.Menus.InventoryPage.
+[14:02:42 TRACE Bigger Backpack] Applying patch InventoryPage_ctor to Void .ctor(Int32, Int32, Int32, Int32) in StardewValley.Menus.InventoryPage.
+[14:02:42 TRACE Bigger Backpack] Applying patch GameLocation_answerDialogueAction to Boolean answerDialogueAction(System.String, System.String[]) in StardewValley.GameLocation.
+[14:02:43 TRACE Bigger Backpack] Applying patch GameLocation_performAction to Boolean performAction(System.String[], StardewValley.Farmer, xTile.Dimensions.Location) in StardewValley.GameLocation.
+[14:02:43 TRACE Bigger Backpack] Applying patch SpecialItem_getTemporarySpriteForHoldingUp to StardewValley.TemporaryAnimatedSprite getTemporarySpriteForHoldingUp(Microsoft.Xna.Framework.Vector2) in StardewValley.Objects.SpecialItem.
+[14:02:43 TRACE Bigger Backpack] Applying patch SeedShop_draw to Void draw(Microsoft.Xna.Framework.Graphics.SpriteBatch) in StardewValley.Locations.SeedShop.
+[14:02:43 TRACE SMAPI]    Found mod-provided API (Omegasis.HappyBirthday.Framework.API.HappyBirthdayAPI).
+[14:02:43 DEBUG Wear More Rings] Applying bytecode patches for bcmpinc.WearMoreRings.
+[14:02:43 TRACE Wear More Rings] Applying patch ForgeMenu_CreateButtons to Void _CreateButtons() in StardewValley.Menus.ForgeMenu.
+[14:02:43 TRACE Wear More Rings] Applying patch Ring_ctor to Void .ctor(System.String) in StardewValley.Objects.Ring.
+[14:02:43 TRACE Wear More Rings] Applying patch InventoryPage_receiveLeftClick to Void receiveLeftClick(Int32, Int32, Boolean) in StardewValley.Menus.InventoryPage.
+[14:02:43 TRACE Wear More Rings] Applying patch InventoryPage_performHoverAction to Void performHoverAction(Int32, Int32) in StardewValley.Menus.InventoryPage.
+[14:02:43 TRACE Bigger Backpack] Applying patch InventoryPage_draw to Void draw(Microsoft.Xna.Framework.Graphics.SpriteBatch) in StardewValley.Menus.InventoryPage.
+[14:02:43 TRACE Wear More Rings] Applying patch InventoryPage_draw to Void draw(Microsoft.Xna.Framework.Graphics.SpriteBatch) in StardewValley.Menus.InventoryPage.
+[14:02:43 TRACE Bigger Backpack] Applying patch InventoryPage_ctor to Void .ctor(Int32, Int32, Int32, Int32) in StardewValley.Menus.InventoryPage.
+[14:02:43 TRACE Wear More Rings] Applying patch InventoryPage_ctor to Void .ctor(Int32, Int32, Int32, Int32) in StardewValley.Menus.InventoryPage.
+[14:02:43 TRACE game] Registered Data/Triggers action: spacechase0.SpaceCore_PlaySound
+[14:02:43 TRACE game] Registered Data/Triggers action: spacechase0.SpaceCore_ShowHudMessage
+[14:02:43 TRACE game] Registered Data/Triggers action: spacechase0.SpaceCore_PlayEvent
+[14:02:43 TRACE game] Registered Data/Triggers action: spacechase0.SpaceCore_DamageCurrentFarmer
+[14:02:43 TRACE game] Registered event command: damageFarmer
+[14:02:43 TRACE game] Registered event command: giveHat
+[14:02:43 TRACE game] Registered event command: setDating
+[14:02:43 TRACE game] Registered event command: setEngaged
+[14:02:43 TRACE game] Registered event command: totemWarpEffect
+[14:02:43 TRACE game] Registered event command: setActorScale
+[14:02:43 TRACE game] Registered event command: cycleActorColors
+[14:02:43 TRACE game] Registered event command: flash
+[14:02:43 TRACE game] Registered event command: setRaining
+[14:02:43 TRACE game] Registered event command: screenShake
+[14:02:43 TRACE game] Registered event command: setZoom
+[14:02:43 TRACE game] Registered event command: smoothZoom
+[14:02:43 TRACE game] Registered Data/Triggers trigger type: spacechase0.SpaceCore_OnItemUsed.
+[14:02:43 TRACE game] Registered Data/Triggers trigger type: spacechase0.SpaceCore_OnItemEaten.
+[14:02:43 TRACE SpaceCore] NPC.draw: inserting mul at 36
+[14:02:43 TRACE SpaceCore] NPC.draw: inserting mul at 42
+[14:02:43 TRACE SpaceCore] NPC.draw: inserting mul at 47
+[14:02:43 TRACE SpaceCore] NPC.draw: replacing Color.White at 139
+[14:02:43 TRACE SpaceCore] NPC.draw: replacing Color.White at 277
+[14:02:43 TRACE SpaceCore] NPC.draw: inserting vec2 mul at 303
+[14:02:43 TRACE SpaceCore] NPC.draw: replacing SpriteBatch.Draw at 324
+[14:02:43 TRACE SpaceCore] NPC.DrawBreathing: replacing Color.White at 283
+[14:02:43 TRACE SpaceCore] NPC.DrawBreathing: inserting vec2 mul/add at 308
+[14:02:43 TRACE SpaceCore] NPC.DrawBreathing: replacing Draw at 329
+[14:02:43 TRACE SpaceCore] Found crafting recipe constructor in Void layoutRecipes(System.Collections.Generic.List`1[System.String])!
+[14:02:43 TRACE SpaceCore] Found first ldloc.s for ClickableTextureComponent in Void layoutRecipes(System.Collections.Generic.List`1[System.String]); storing potential override w/ recipeLocal=StardewValley.CraftingRecipe (9)
+[14:02:43 TRACE SpaceCore] Found crafting recipe constructor in System.String createDescription(System.String)!
+[14:02:44 TRACE Bigger Backpack] Applying patch GameLocation_performAction to Boolean performAction(System.String[], StardewValley.Farmer, xTile.Dimensions.Location) in StardewValley.GameLocation.
+[14:02:44 TRACE Bigger Backpack] Applying patch GameLocation_answerDialogueAction to Boolean answerDialogueAction(System.String, System.String[]) in StardewValley.GameLocation.
+[14:02:44 TRACE SMAPI]    Found mod-provided API (SpaceCore.Api).
+[14:02:44 TRACE SMAPI]    Found mod-provided API (Pathoschild.Stardew.Automate.Framework.AutomateAPI).
+[14:02:44 TRACE SMAPI]    Found mod-provided API (BetterRanching.BetterRanchingApi).
+[14:02:44 DEBUG SMAPI] Mods loaded and ready!
+[14:02:44 TRACE SMAPI] Checking for updates...
+[14:02:44 TRACE Save Backup] Backed up to /home/eric/Games/StardewValley/game/save-backups/2024-05-04 - SMAPI 4.0.8 with Stardew Valley 1.6.8.zip.
+[14:02:45 TRACE game] setGameMode( 'titleScreenGameMode (0)' )
+[14:02:45 INFO  SMAPI] Type 'help' for help, or 'help <cmd>' for a command's usage
+[14:02:45 TRACE Better Friendship] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[14:02:45 TRACE Bigger Backpack] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[14:02:45 TRACE SkullCavernElevator] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WildHorseradish (O)16
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Daffodil (O)18
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Leek (O)20
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Dandelion (O)22
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Parsnip (O)24
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Emerald (O)60
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Aquamarine (O)62
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Ruby (O)64
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Amethyst (O)66
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Topaz (O)68
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BananaSapling (O)69
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Jade (O)70
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Diamond (O)72
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PrismaticShard (O)74
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CaveCarrot (O)78
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Quartz (O)80
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FireQuartz (O)82
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FrozenTear (O)84
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.EarthCrystal (O)86
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Coconut (O)88
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CactusFruit (O)90
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Banana (O)91
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Torch (O)93
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SpiritTorch (O)94
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DwarfScrollI (O)96
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DwarfScrollII (O)97
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DwarfScrollIII (O)98
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DwarfScrollIV (O)99
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.ChippedAmphora (O)100
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DinosaurEgg (O)107
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.AncientSeed (O)114
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Pufferfish (O)128
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Anchovy (O)129
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Tuna (O)130
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Sardine (O)131
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Bream (O)132
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.LargemouthBass (O)136
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SmallmouthBass (O)137
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RainbowTrout (O)138
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Salmon (O)139
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Walleye (O)140
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Perch (O)141
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Carp (O)142
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Catfish (O)143
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Pike (O)144
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Sunfish (O)145
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RedMullet (O)146
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Herring (O)147
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Eel (O)148
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Octopus (O)149
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RedSnapper (O)150
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Squid (O)151
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Seaweed (O)152
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GreenAlgae (O)153
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SeaCucumber (O)154
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SuperCucumber (O)155
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Ghostfish (O)156
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WhiteAlgae (O)157
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Stonefish (O)158
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Sandfish (O)164
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.ScorpionCarp (O)165
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TreasureChest (O)166
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.JojaCola (O)167
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.LargeEgg (O)174
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Egg (O)176
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BrownEgg (O)180
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.LargeBrownEgg (O)182
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Milk (O)184
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.LargeMilk (O)186
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GreenBean (O)188
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Cauliflower (O)190
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Potato (O)192
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FriedEgg (O)194
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Omelet (O)195
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Salad (O)196
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CheeseCauliflower (O)197
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BakedFish (O)198
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.ParsnipSoup (O)199
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.VegetableMedley (O)200
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CompleteBreakfast (O)201
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FriedCalamari (O)202
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.StrangeBun (O)203
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.LuckyLunch (O)204
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FriedMushroom (O)205
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Pizza (O)206
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BeanHotpot (O)207
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GlazedYams (O)208
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CarpSurprise (O)209
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Hashbrowns (O)210
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Pancakes (O)211
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SalmonDinner (O)212
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FishTaco (O)213
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CrispyBass (O)214
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PepperPoppers (O)215
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Bread (O)216
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TomKhaSoup (O)218
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TroutSoup (O)219
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.ChocolateCake (O)220
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PinkCake (O)221
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RhubarbPie (O)222
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Cookie (O)223
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Spaghetti (O)224
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FriedEel (O)225
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SpicyEel (O)226
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Sashimi (O)227
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MakiRoll (O)228
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Tortilla (O)229
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RedPlate (O)230
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.EggplantParmesan (O)231
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RicePudding (O)232
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.IceCream (O)233
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BlueberryTart (O)234
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.AutumnsBounty (O)235
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PumpkinSoup (O)236
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SuperMeal (O)237
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CranberrySauce (O)238
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Stuffing (O)239
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FarmersLunch (O)240
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SurvivalBurger (O)241
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DishOTheSea (O)242
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MinersTreat (O)243
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RootsPlatter (O)244
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Sugar (O)245
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WheatFlour (O)246
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Oil (O)247
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Garlic (O)248
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Kale (O)250
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Rhubarb (O)252
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Melon (O)254
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Tomato (O)256
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Morel (O)257
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Blueberry (O)258
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FiddleheadFern (O)259
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.HotPepper (O)260
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Wheat (O)262
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Radish (O)264
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SeafoamPudding (O)265
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RedCabbage (O)266
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Flounder (O)267
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Starfruit (O)268
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MidnightCarp (O)269
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Corn (O)270
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Eggplant (O)272
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Artichoke (O)274
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Pumpkin (O)276
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BokChoy (O)278
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MagicRockCandy (O)279
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Yam (O)280
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Chanterelle (O)281
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Cranberries (O)282
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Holly (O)283
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Beet (O)284
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CherryBomb (O)286
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Bomb (O)287
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MegaBomb (O)288
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.OstrichEgg (O)289
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MahoganySeed (O)292
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Salmonberry (O)296
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GrassStarter (O)297
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.HardwoodFence (O)298
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.AmaranthSeeds (O)299
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Amaranth (O)300
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GrapeStarter (O)301
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.HopsStarter (O)302
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PaleAle (O)303
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Hops (O)304
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.VoidEgg (O)305
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Mayonnaise (O)306
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DuckMayonnaise (O)307
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.VoidMayonnaise (O)308
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Acorn (O)309
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MapleSeed (O)310
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PineCone (O)311
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WoodFence (O)322
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.StoneFence (O)323
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.IronFence (O)324
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Gate (O)325
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DwarvishTranslationGuide (O)326
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WoodFloor (O)328
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.StoneFloor (O)329
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Clay (O)330
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WeatheredFloor (O)331
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CrystalFloor (O)333
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CopperBar (O)334
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.IronBar (O)335
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GoldBar (O)336
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.IridiumBar (O)337
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RefinedQuartz (O)338
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Honey (O)340
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TeaSet (O)341
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Pickles (O)342
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Jelly (O)344
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Beer (O)346
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RareSeed (O)347
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Wine (O)348
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.EnergyTonic (O)349
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Juice (O)350
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MuscleRemedy (O)351
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BasicFertilizer (O)368
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.QualityFertilizer (O)369
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BasicRetainingSoil (O)370
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.QualityRetainingSoil (O)371
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Clam (O)372
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GoldenPumpkin (O)373
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Poppy (O)376
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CopperOre (O)378
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.IronOre (O)380
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Coal (O)382
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GoldOre (O)384
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.IridiumOre (O)386
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Wood (O)388
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Stone (O)390
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.NautilusShell (O)392
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Coral (O)393
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RainbowShell (O)394
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Coffee (O)395
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SpiceBerry (O)396
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SeaUrchin (O)397
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Grape (O)398
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SpringOnion (O)399
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Strawberry (O)400
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.StrawFloor (O)401
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SweetPea (O)402
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FieldSnack (O)403
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CommonMushroom (O)404
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WoodPath (O)405
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WildPlum (O)406
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GravelPath (O)407
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Hazelnut (O)408
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CrystalPath (O)409
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Blackberry (O)410
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CobblestonePath (O)411
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WinterRoot (O)412
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BlueSlimeEgg (O)413
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CrystalFruit (O)414
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SteppingStonePath (O)415
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SnowYam (O)416
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SweetGemBerry (O)417
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Crocus (O)418
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Vinegar (O)419
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RedMushroom (O)420
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Sunflower (O)421
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PurpleMushroom (O)422
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Rice (O)423
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Cheese (O)424
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FairySeeds (O)425
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GoatCheese (O)426
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TulipBulb (O)427
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Cloth (O)428
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.JazzSeeds (O)429
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Truffle (O)430
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SunflowerSeeds (O)431
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TruffleOil (O)432
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CoffeeBean (O)433
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GoatMilk (O)436
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RedSlimeEgg (O)437
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.LargeGoatMilk (O)438
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PurpleSlimeEgg (O)439
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Wool (O)440
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.ExplosiveAmmo (O)441
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DuckEgg (O)442
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DuckFeather (O)444
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Caviar (O)445
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RabbitsFoot (O)446
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.StoneBase (O)449
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PoppySeeds (O)453
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.AncientFruit (O)454
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SpangleSeeds (O)455
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.AlgaeSoup (O)456
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PaleBroth (O)457
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Bouquet (O)458
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Mead (O)459
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DecorativePot (O)461
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DrumBlock (O)463
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FluteBlock (O)464
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SpeedGrow (O)465
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DeluxeSpeedGrow (O)466
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.ParsnipSeeds (O)472
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BeanStarter (O)473
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CauliflowerSeeds (O)474
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PotatoSeeds (O)475
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GarlicSeeds (O)476
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.KaleSeeds (O)477
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RhubarbSeeds (O)478
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MelonSeeds (O)479
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TomatoSeeds (O)480
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BlueberrySeeds (O)481
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PepperSeeds (O)482
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WheatSeeds (O)483
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RadishSeeds (O)484
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RedCabbageSeeds (O)485
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.StarfruitSeeds (O)486
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CornSeeds (O)487
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.EggplantSeeds (O)488
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.ArtichokeSeeds (O)489
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PumpkinSeeds (O)490
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BokChoySeeds (O)491
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.YamSeeds (O)492
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CranberrySeeds (O)493
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BeetSeeds (O)494
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SpringSeeds (O)495
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SummerSeeds (O)496
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FallSeeds (O)497
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WinterSeeds (O)498
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.AncientSeeds (O)499
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SmallGlowRing (O)516
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GlowRing (O)517
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SmallMagnetRing (O)518
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MagnetRing (O)519
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SlimeCharmerRing (O)520
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WarriorRing (O)521
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.VampireRing (O)522
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SavageRing (O)523
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RingofYoba (O)524
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SturdyRing (O)525
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BurglarsRing (O)526
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.IridiumBand (O)527
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.JukeboxRing (O)528
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.AmethystRing (O)529
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TopazRing (O)530
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.AquamarineRing (O)531
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.JadeRing (O)532
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.EmeraldRing (O)533
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RubyRing (O)534
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Geode (O)535
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FrozenGeode (O)536
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MagmaGeode (O)537
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Alamite (O)538
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Bixite (O)539
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Baryte (O)540
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Aerinite (O)541
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Calcite (O)542
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Dolomite (O)543
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Esperite (O)544
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Fluorapatite (O)545
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Geminite (O)546
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Helvite (O)547
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Jamborite (O)548
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Jagoite (O)549
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Kyanite (O)550
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Lunarite (O)551
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Malachite (O)552
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Neptunite (O)553
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.LemonStone (O)554
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Nekoite (O)555
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Orpiment (O)556
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PetrifiedSlime (O)557
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.ThunderEgg (O)558
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Pyrite (O)559
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.OceanStone (O)560
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GhostCrystal (O)561
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Tigerseye (O)562
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Jasper (O)563
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Opal (O)564
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FireOpal (O)565
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Celestine (O)566
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Marble (O)567
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Sandstone (O)568
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Granite (O)569
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Basalt (O)570
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Limestone (O)571
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Soapstone (O)572
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Hematite (O)573
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Mudstone (O)574
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Obsidian (O)575
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Slate (O)576
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FairyStone (O)577
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.StarShards (O)578
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.NautilusFossil (O)586
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.AmphibianFossil (O)587
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PalmFossil (O)588
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Trilobite (O)589
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.ArtifactSpot (O)590
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Tulip (O)591
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SummerSpangle (O)593
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FairyRose (O)595
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BlueJazz (O)597
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Sprinkler (O)599
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PlumPudding (O)604
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.ArtichokeDip (O)605
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.StirFry (O)606
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RoastedHazelnuts (O)607
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PumpkinPie (O)608
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RadishSalad (O)609
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FruitSalad (O)610
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BlackberryCobbler (O)611
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CranberryCandy (O)612
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Apple (O)613
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GreenTea (O)614
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Bruschetta (O)618
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.QualitySprinkler (O)621
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CherrySapling (O)628
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.ApricotSapling (O)629
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.OrangeSapling (O)630
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PeachSapling (O)631
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PomegranateSapling (O)632
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.AppleSapling (O)633
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Apricot (O)634
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Orange (O)635
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Peach (O)636
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Pomegranate (O)637
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Cherry (O)638
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.IridiumSprinkler (O)645
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Coleslaw (O)648
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FiddleheadRisotto (O)649
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PoppyseedMuffin (O)651
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GreenSlimeEgg (O)680
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RainTotem (O)681
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MutantCarp (O)682
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BugMeat (O)684
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Bait (O)685
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Spinner (O)686
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DressedSpinner (O)687
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WarpTotemFarm (O)688
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WarpTotemMountains (O)689
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WarpTotemBeach (O)690
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BarbedHook (O)691
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.LeadBobber (O)692
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TreasureHunter (O)693
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TrapBobber (O)694
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CorkBobber (O)695
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Sturgeon (O)698
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TigerTrout (O)699
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Bullhead (O)700
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Tilapia (O)701
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Chub (O)702
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Magnet (O)703
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Dorado (O)704
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Albacore (O)705
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Shad (O)706
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Lingcod (O)707
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Halibut (O)708
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Hardwood (O)709
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CrabPot (O)710
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Lobster (O)715
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Crayfish (O)716
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Crab (O)717
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Cockle (O)718
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Mussel (O)719
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Shrimp (O)720
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Snail (O)721
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Periwinkle (O)722
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Oyster (O)723
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MapleSyrup (O)724
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.OakResin (O)725
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PineTar (O)726
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Chowder (O)727
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FishStew (O)728
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Escargot (O)729
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.LobsterBisque (O)730
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MapleBar (O)731
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CrabCakes (O)732
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Woodskip (O)734
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.StrawberrySeeds (O)745
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.JackOLantern (O)746
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RottenPlant (O)747
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.OmniGeode (O)749
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Slime (O)766
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BatWing (O)767
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SolarEssence (O)768
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.VoidEssence (O)769
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MixedSeeds (O)770
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Fiber (O)771
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.OilofGarlic (O)772
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.LifeElixir (O)773
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.WildBait (O)774
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Glacierfish (O)775
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BatteryPack (O)787
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BerryBasket (O)790
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.GoldenCoconut (O)791
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.VoidSalmon (O)795
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Slimejack (O)796
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Pearl (O)797
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MidnightSquid (O)798
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SpookFish (O)799
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Blobfish (O)800
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CactusSeeds (O)802
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DinosaurMayonnaise (O)807
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MovieTicket (O)809
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Roe (O)812
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SquidInk (O)814
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TeaLeaves (O)815
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Ginger (O)829
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TaroRoot (O)830
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TaroTuber (O)831
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Pineapple (O)832
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PineappleSeeds (O)833
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Mango (O)834
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MangoSapling (O)835
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Stingray (O)836
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Lionfish (O)837
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BlueDiscus (O)838
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.ThornsRing (O)839
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RusticPlankFloor (O)840
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.StoneWalkwayFloor (O)841
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CinderShard (O)848
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MagmaCap (O)851
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DragonTooth (O)852
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CuriosityLure (O)856
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TigerSlimeEgg (O)857
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PhoenixRing (O)863
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FairyDust (O)872
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PiñaColada (O)873
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BugSteak (O)874
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Ectoplasm (O)875
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.PrismaticJelly (O)876
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.QualityBobber (O)877
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MonsterMusk (O)879
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BoneFragment (O)881
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FiberSeeds (O)885
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MushroomTreeSeed (O)891
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FireworksRed (O)893
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FireworksPurple (O)894
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.FireworksGreen (O)895
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.BananaPudding (O)904
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MangoStickyRice (O)905
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.Poi (O)906
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.TropicalCurry (O)907
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.MagicBait (O)908
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RadioactiveOre (O)909
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.RadioactiveBar (O)910
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.HyperSpeedGro (O)918
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DeluxeFertilizer (O)919
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.DeluxeRetainingSoil (O)920
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SquidInkRavioli (O)921
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.SlimeCrate (O)925
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CookoutKit (O)926
+[14:02:45 TRACE Happy Birthday] Building legacy gift id: StardewValley.Object.CampingStove (O)927
+[14:02:45 TRACE game] Registered event command: Omegasis.HappyBirthday.Events.ShowTranslatedMessage
+[14:02:45 TRACE game] Registered event command: Omegasis.HappyBirthday.Events.SpeakWithBirthdayMessageIncluded
+[14:02:45 TRACE game] Registered event command: Omegasis.HappyBirthday.Events.SpeakWithTranslatedMessage
+[14:02:45 TRACE game] Registered event command: Omegasis.HappyBirthday.Events.SpeakWithTranslatedMessageFromFile
+[14:02:45 TRACE game] Registered event command: Omegasis.HappyBirthday.Events.SpeakIfTodayIsPlayersBirthday
+[14:02:45 TRACE game] Registered event command: Omegasis.HappyBirthday.Events.ShowBirthdaySelectionMenu
+[14:02:45 TRACE game] Registered event command: Omegasis.HappyBirthday.Events.ShowFavoriteGiftSelectionMenu
+[14:02:45 TRACE game] Registered event command: Omegasis.HappyBirthday.Events.SkipNextCommand
+[14:02:45 TRACE game] Registered event command: Omegasis.HappyBirthday.Events.GivePlayerFavoriteGift
+[14:02:45 TRACE game] Registered event command: Omegasis.HappyBirthday.Events.MakeObjectsTemporarilyInvisible
+[14:02:45 TRACE game] Registered event command: Omegasis.EventFramework.AddObjectToPlayersInventory
+[14:02:45 TRACE game] Registered event command: Omegasis.EventFramework.AddInJunimoActor
+[14:02:45 TRACE game] Registered event command: Omegasis.EventFramework.FlipJunimoActor
+[14:02:45 TRACE game] Registered event command: Omegasis.EventFramework.SetUpAdvanceJunimoMovement
+[14:02:45 TRACE game] Registered event command: Omegasis.EventFramework.FinishAdvanceJunimoMovement
+[14:02:45 TRACE game] Registered event command: Omegasis.EventFramework.AddInJunimoAdvanceMove
+[14:02:45 TRACE game] Registered event command: Omegasis.EventFramework.RemoveJunimoAdvanceMove
+[14:02:45 TRACE Skip Intro] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[14:02:45 TRACE LadderLocator] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[14:02:45 TRACE Yet Another Fishing Mod] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[14:02:45 TRACE Wear More Rings] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[14:02:45 TRACE SpaceCore] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[14:02:45 TRACE SpaceCore] Accessed mod-provided API (ContentPatcher.Framework.ContentPatcherAPI) for Content Patcher.
+[14:02:45 TRACE SMAPI] SpaceCore loaded asset 'spacechase0.SpaceCore/TextureOverrides'.
+[14:02:45 TRACE SMAPI] SpaceCore loaded asset 'spacechase0.SpaceCore/CraftingRecipeOverrides'.
+[14:02:45 TRACE SMAPI] SpaceCore loaded asset 'spacechase0.SpaceCore/CookingRecipeOverrides'.
+[14:02:45 TRACE SpaceCore] Accessed mod-provided API (SpaceCore.Api) for SpaceCore.
+[14:02:45 TRACE Automate] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[14:02:45 TRACE NPC Map Locations] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[14:02:45 TRACE Better Ranching] Accessed mod-provided API (GenericModConfigMenu.Framework.Api) for Generic Mod Config Menu.
+[14:02:45 TRACE Content Patcher] SpaceCore added 4 custom tokens with prefix 'spacechase0.SpaceCore/': BooksellerInTown, CurrentEventId, CurrentlyInEvent, QuestionsAsked.
+[14:02:45 TRACE game] Registered Data/Triggers action: Pathoschild.ContentPatcher_MigrateIds
+[14:02:45 TRACE SMAPI] Generic Mod Config Menu loaded asset 'Mods/GenericModConfigMenu/ConfigButton'.
+[14:02:45 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[14:02:50 TRACE SMAPI] Synchronizing 'Find Save Games' task...
+[14:02:51 TRACE SMAPI]    task complete.
+[14:02:54 TRACE game] gameMode was 'titleScreenGameMode (0)', set to 'loadingMode (6)'.
+[14:02:54 TRACE SMAPI] Game loader synchronizing...
+[14:02:54 TRACE game] getLoadEnumerator('Cheeseburger_370576440')
+[14:02:54 TRACE game] regular stream detected...
+[14:02:54 TRACE SMAPI] Synchronizing 'Load_Deserialize' task...
+[14:02:56 TRACE SMAPI] SpaceCore loaded asset 'spacechase0.SpaceCore/NpcExtensionData'.
+[14:02:57 TRACE SMAPI]    task complete.
+[14:02:57 TRACE Content Patcher] Requested cache invalidation for all assets matching a predicate.
+[14:02:57 TRACE SMAPI] Invalidated 0 cache entries.
+[14:02:57 TRACE SMAPI] Synchronizing 'Load_LoadForNewGame' task...
+[14:02:57 TRACE SMAPI] SpaceCore loaded asset 'spacechase0.SpaceCore/ObjectExtensionData'.
+[14:02:57 TRACE SMAPI] Content Patcher edited Data/Locations.
+[14:02:57 TRACE SMAPI] SpaceCore loaded asset 'spacechase0.SpaceCore/FurnitureExtensionData'.
+[14:02:57 TRACE SMAPI] SpaceCore loaded asset 'spacechase0.SpaceCore/FarmExtensionData'.
+[14:02:58 TRACE SpaceCore] Event: OnBlankSave
+[14:02:58 TRACE SMAPI]    task complete.
+[14:02:58 TRACE SMAPI] Synchronizing 'Load_Farmer' task...
+[14:02:58 TRACE SMAPI]    task complete.
+[14:02:58 TRACE SMAPI] Synchronizing 'Load_Locations' task...
+[14:02:59 TRACE SMAPI]    task complete.
+[14:02:59 DEBUG game] Applying save fix: ResetForges_1_6
+[14:02:59 DEBUG game] Applying save fix: RestoreAncientSeedRecipe_1_6
+[14:02:59 DEBUG game] Applying save fix: FixInstancedInterior
+[14:02:59 DEBUG game] Applying save fix: FixNonInstancedInterior
+[14:02:59 DEBUG game] Applying save fix: PopulateConstructedBuildings
+[14:02:59 DEBUG game] Applying save fix: FixRacoonQuestCompletion
+[14:02:59 TRACE game] gameMode was 'loadingMode (6)', set to 'playingGameMode (3)'.
+[14:02:59 TRACE game] getLoadEnumerator() exited, elapsed = '00:00:05.1049652'
+[14:02:59 TRACE SMAPI] Game loader done.
+[14:03:00 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[14:03:00 TRACE game] Vsync toggled: False
+[14:03:00 TRACE SMAPI] Context: loaded save 'Cheeseburger_370576440', starting summer 7 Y3, locale set to . Single-player.
+[14:03:00 TRACE Happy Birthday] Loading in default birthday gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Leah : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Sebastian : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Harvey : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Alex : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: DefaultGifts : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Elliott : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Lewis : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Robin : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Willy : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Gus : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Marnie : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Jodi : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Sandy : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Maru : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Caroline : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Pierre : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Jas : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Sam : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Dwarf : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Krobus : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Abigail : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Pam : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Emily : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Linus : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Haley : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Penny : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Wizard : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: George : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Demetrius : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Kent : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Vincent : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Clint : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Shane : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in gifts for npc for content pack: Evelyn : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in spouse gifts for npc for content pack: Leah : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in spouse gifts for npc for content pack: Sebastian : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in spouse gifts for npc for content pack: Harvey : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in spouse gifts for npc for content pack: Alex : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in spouse gifts for npc for content pack: Elliott : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in spouse gifts for npc for content pack: Maru : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in spouse gifts for npc for content pack: Sam : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in spouse gifts for npc for content pack: Abigail : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in spouse gifts for npc for content pack: Emily : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in spouse gifts for npc for content pack: Haley : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in spouse gifts for npc for content pack: Penny : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Loaded in spouse gifts for npc for content pack: Shane : Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Registering Happy Birthday Content Pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding default gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Leah gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Sebastian gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Harvey gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Alex gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc DefaultGifts gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Elliott gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Lewis gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Robin gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Willy gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Gus gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Marnie gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Jodi gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Sandy gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Maru gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Caroline gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Pierre gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Jas gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Sam gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Dwarf gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Krobus gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Abigail gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Pam gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Emily gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Linus gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Haley gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Penny gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Wizard gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc George gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Demetrius gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Kent gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Vincent gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Clint gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Shane gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding npc Evelyn gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding spouse Leah gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding spouse Sebastian gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding spouse Harvey gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding spouse Alex gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding spouse Elliott gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding spouse Maru gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding spouse Sam gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding spouse Abigail gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding spouse Emily gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding spouse Haley gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding spouse Penny gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 TRACE Happy Birthday] Adding spouse Shane gifts for content pack: Omegasis.HappyBirthday.ContentPack.en-US
+[14:03:00 INFO  Wear More Rings] Save loaded for Eric.
+[14:03:00 TRACE Wear More Rings] Deprecated save data not available.
+[14:03:00 TRACE SMAPI] NPC Map Locations loaded asset 'Mods/Bouhm.NPCMapLocations/NPCs'.
+[14:03:00 TRACE SMAPI] NPC Map Locations loaded asset 'Mods/Bouhm.NPCMapLocations/Locations'.
+[14:03:00 TRACE Happy Birthday] Loading player's birthday on new day started.
+[14:03:00 TRACE Happy Birthday] Loading player's birthday from: data/Eric_6479017765238143418/Eric_6479017765238143418.json
+[14:03:00 TRACE NPC Map Locations] Unknown locations: LewisBasement
+[14:03:00 ERROR game] Galaxy auth failure: FAILURE_REASON_GALAXY_SERVICE_NOT_AVAILABLE
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)16
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)18
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)20
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)22
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)24
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)60
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)62
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)64
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)66
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)68
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)69
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)70
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)72
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)74
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)78
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)80
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)82
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)84
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)86
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)88
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)90
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)91
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)93
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)94
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)96
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)97
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)98
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)99
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)100
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)107
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)114
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)128
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)129
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)130
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)131
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)132
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)136
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)137
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)138
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)139
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)140
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)141
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)142
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)143
+[14:03:13 TRACE Happy Birthday] Requesting gift with id:(O)144
+[14:03:43 WARN  SMAPI] Couldn't check for a new version of SMAPI. This won't affect your game, but you won't be notified of new versions if this keeps happening.
+[14:03:43 TRACE SMAPI] Error: Pathoschild.Http.Client.ApiException: The API query failed with status code BadGateway: Bad Gateway
+   at Pathoschild.Http.Client.Extensibility.DefaultErrorFilter.OnResponse(IResponse response, Boolean httpErrorAsException)
+   at Pathoschild.Http.Client.Internal.Request.Execute()
+   at Pathoschild.Http.Client.Internal.Request.As[T]()
+   at StardewModdingAPI.Toolkit.Framework.Clients.WebApi.WebApiClient.GetModInfoAsync(ModSearchEntryModel[] mods, ISemanticVersion apiVersion, ISemanticVersion gameVersion, Platform platform, Boolean includeExtendedMetadata) in SMAPI.Toolkit\Framework\Clients\WebApi\WebApiClient.cs:line 47
+   at StardewModdingAPI.Framework.SCore.CheckForUpdatesAsync(IModMetadata[] mods) in SMAPI\Framework\SCore.cs:line 1574
+[14:03:43 TRACE SMAPI]    Checking for updates to 18 mods...
+[14:03:46 TRACE Happy Birthday] Added (O)74 as a potential favorited gift.
+[14:03:49 TRACE Happy Birthday] Added (O)107 as a potential favorited gift.
+[14:03:59 TRACE Happy Birthday] Added (O)99 as a potential favorited gift.
+[14:04:01 TRACE Happy Birthday] Added (O)98 as a potential favorited gift.
+[14:04:03 TRACE Happy Birthday] Added (O)97 as a potential favorited gift.
+[14:04:06 TRACE Happy Birthday] Added (O)96 as a potential favorited gift.
+[14:04:25 TRACE SpaceCore] Event: OnEventFinished
+[14:04:25 TRACE SpaceCore] Event: BeforeWarp
+[14:04:25 TRACE game] Warping to FarmHouse
+[14:04:42 TRACE SpaceCore] Event: BeforeWarp
+[14:04:42 TRACE game] Warping to Cellar
+[14:04:56 TRACE SpaceCore] Event: BeforeWarp
+[14:04:56 TRACE game] Warping to Farmhouse
+[14:05:01 TRACE SpaceCore] Event: BeforeWarp
+[14:05:01 TRACE game] Warping to Farm
+[14:05:01 TRACE SMAPI] Content Patcher edited Buildings/Mailbox (for the 'Wyrd's Seasonal Mailboxes' content pack).
+[14:05:16 TRACE Happy Birthday] Current translation code is: en
+[14:05:20 TRACE Happy Birthday] Current translation code is: en
+[14:05:22 TRACE Happy Birthday] Current translation code is: en
+[14:05:22 TRACE Happy Birthday] Current translation code is: en
+[14:05:23 WARN  SMAPI] Couldn't check for new mod versions. This won't affect your game, but you won't be notified of mod updates if this keeps happening.
+[14:05:23 TRACE SMAPI] System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+ ---> System.TimeoutException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: The response ended prematurely.
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Pathoschild.Http.Client.FluentClient.SendImplAsync(IRequest request)
+   at Pathoschild.Http.Client.FluentClient.<SendAsync>b__23_0(IRequest req)
+   at Pathoschild.Http.Client.Internal.Request.Execute()
+   at Pathoschild.Http.Client.Internal.Request.As[T]()
+   at StardewModdingAPI.Toolkit.Framework.Clients.WebApi.WebApiClient.GetModInfoAsync(ModSearchEntryModel[] mods, ISemanticVersion apiVersion, ISemanticVersion gameVersion, Platform platform, Boolean includeExtendedMetadata) in E:\source\_Stardew\SMAPI\src\SMAPI.Toolkit\Framework\Clients\WebApi\WebApiClient.cs:line 47
+   at StardewModdingAPI.Framework.SCore.CheckForUpdatesAsync(IModMetadata[] mods) in E:\source\_Stardew\SMAPI\src\SMAPI\Framework\SCore.cs:line 1634
+[14:05:32 TRACE SpaceCore] Event: OnEventFinished
+[14:05:32 TRACE SpaceCore] Event: BeforeWarp
+[14:05:32 TRACE game] Warping to Farm
+[14:05:45 TRACE SpaceCore] Event: BeforeWarp
+[14:05:45 TRACE game] Warping to SlimeHutch23599bbb-e223-4248-a387-47412dfc90aa
+[14:05:55 TRACE SpaceCore] Event: BeforeWarp
+[14:05:55 TRACE game] Warping to Farm
+[14:06:03 TRACE SpaceCore] Event: BeforeWarp
+[14:06:03 TRACE game] Warping to Coop75c01913-3fdf-41a2-8b9b-6c686046fcbc
+[14:06:26 TRACE SpaceCore] Event: BeforeWarp
+[14:06:26 TRACE game] Warping to Farm
+[14:06:30 TRACE SpaceCore] Event: BeforeWarp
+[14:06:30 TRACE game] Warping to Barn40cd95dd-88c1-4ec6-ad6c-9b27ecf9e2d8
+[14:06:47 TRACE SpaceCore] Event: BeforeWarp
+[14:06:47 TRACE game] Warping to Farm
+[14:07:17 TRACE SpaceCore] Event: BeforeWarp
+[14:07:17 TRACE game] Warping to Greenhouse
+[14:07:30 TRACE SMAPI] SpaceCore loaded asset 'spacechase0.SpaceCore/CropExtensionData'.
+[14:07:44 TRACE SpaceCore] Event: BeforeWarp
+[14:07:44 TRACE game] Warping to Farm
+[14:07:57 TRACE SpaceCore] Event: BeforeWarp
+[14:07:57 TRACE game] Warping to FarmCave
+[14:08:07 TRACE SpaceCore] Event: BeforeWarp
+[14:08:07 TRACE game] Warping to Farm
+[14:08:43 TRACE SpaceCore] Event: BeforeWarp
+[14:08:43 TRACE game] Warping to Forest
+[14:08:52 TRACE SMAPI] Bigger Backpack edited LooseSprites/JunimoNote.
+[14:09:04 TRACE SpaceCore] Event: BeforeWarp
+[14:09:04 TRACE game] Warping to Farm
+[14:09:29 TRACE SpaceCore] Event: BeforeWarp
+[14:09:29 TRACE game] Warping to BusStop
+[14:09:36 TRACE SpaceCore] Event: BeforeWarp
+[14:09:36 TRACE game] Warping to Town
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)107
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)205
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)223
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)176
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)376
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)611
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)206
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)16
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)649
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)334
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)200
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)472
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)614
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)80
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)200
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)421
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)395
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)88
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)296
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)335
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)388
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)286
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)416
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)495
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)311
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)768
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)418
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)459
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)206
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)22
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)346
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)68
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)305
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)268
+[14:09:43 TRACE Happy Birthday] Requesting gift with id:(O)148
+[14:09:43 TRACE SMAPI] Happy Birthday edited Data/mail.
+[14:09:43 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[14:09:46 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[14:09:49 TRACE SMAPI] Bigger Backpack edited LooseSprites/JunimoNote.
+[14:10:04 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[14:10:08 TRACE SpaceCore] Event: BeforeWarp
+[14:10:08 TRACE game] Warping to Hospital
+[14:10:11 TRACE SMAPI] SpaceCore loaded asset 'spacechase0.SpaceCore/ShopExtensionData'.
+[14:10:14 TRACE SpaceCore] Event: BeforeWarp
+[14:10:14 TRACE game] Warping to Town
+[14:10:40 TRACE SpaceCore] Event: BeforeWarp
+[14:10:40 TRACE game] Warping to Beach
+[14:10:56 TRACE SpaceCore] Event: BeforeWarp
+[14:10:56 TRACE game] Warping to FishShop
+[14:11:07 TRACE SpaceCore] Event: BeforeWarp
+[14:11:07 TRACE game] Warping to BoatTunnel
+[14:11:30 TRACE SpaceCore] Event: BeforeWarp
+[14:11:30 TRACE game] Warping to IslandSouth
+[14:11:31 TRACE SpaceCore] Event: OnEventFinished
+[14:11:58 TRACE SpaceCore] Event: BeforeWarp
+[14:11:58 TRACE game] Warping to IslandEast
+[14:12:11 TRACE SpaceCore] Event: BeforeWarp
+[14:12:11 TRACE game] Warping to IslandHut
+[14:12:20 TRACE SpaceCore] Event: BeforeWarp
+[14:12:20 TRACE game] Warping to IslandEast
+[14:12:31 TRACE SpaceCore] Event: BeforeWarp
+[14:12:31 TRACE game] Warping to IslandSouth
+[14:12:38 TRACE SpaceCore] Event: BeforeWarp
+[14:12:38 TRACE game] Warping to IslandNorth
+[14:13:27 TRACE SpaceCore] Event: BeforeWarp
+[14:13:27 TRACE game] Warping to IslandFieldOffice
+[14:13:33 TRACE SpaceCore] Event: BeforeWarp
+[14:13:33 TRACE game] Warping to IslandNorth
+[14:14:26 TRACE SpaceCore] Event: BeforeWarp
+[14:14:26 TRACE game] Warping to VolcanoDungeon0
+[14:14:50 TRACE SpaceCore] Event: BeforeWarp
+[14:14:50 TRACE game] Warping to VolcanoDungeon1
+[14:15:30 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[14:15:36 TRACE SpaceCore] Event: BeforeWarp
+[14:15:36 TRACE game] Warping to IslandSouth
+[14:15:53 TRACE SpaceCore] Event: OnEventFinished
+[14:15:53 TRACE SpaceCore] Event: BeforeWarp
+[14:15:53 TRACE game] Warping to IslandSouth
+[14:15:59 TRACE SpaceCore] Event: OnItemEaten
+[14:16:13 TRACE SpaceCore] Event: OnItemEaten
+[14:16:33 TRACE SpaceCore] Event: BeforeWarp
+[14:16:33 TRACE game] Warping to IslandNorth
+[14:16:48 TRACE SpaceCore] Event: BeforeWarp
+[14:16:48 TRACE game] Warping to IslandFieldOffice
+[14:16:55 TRACE SpaceCore] Event: BeforeWarp
+[14:16:55 TRACE game] Warping to IslandNorth
+[14:17:17 TRACE SpaceCore] Event: BeforeWarp
+[14:17:17 TRACE game] Warping to VolcanoDungeon0
+[14:17:34 TRACE SpaceCore] Event: BeforeWarp
+[14:17:34 TRACE game] Warping to IslandNorth
+[14:18:43 TRACE SpaceCore] Event: BeforeWarp
+[14:18:43 TRACE game] Warping to IslandSouth
+[14:19:05 TRACE SpaceCore] Event: OnEventFinished
+[14:19:05 TRACE SpaceCore] Event: BeforeWarp
+[14:19:05 TRACE game] Warping to BoatTunnel
+[14:19:07 TRACE SpaceCore] Event: BeforeWarp
+[14:19:07 TRACE game] Warping to FishShop
+[14:19:12 TRACE SpaceCore] Event: BeforeWarp
+[14:19:12 TRACE game] Warping to Beach
+[14:19:25 TRACE SpaceCore] Event: BeforeWarp
+[14:19:25 TRACE game] Warping to Town
+[14:19:43 TRACE SpaceCore] Event: BeforeWarp
+[14:19:43 TRACE game] Warping to Saloon
+[14:20:17 TRACE SpaceCore] Event: BeforeWarp
+[14:20:17 TRACE game] Warping to Town
+[14:20:32 TRACE SpaceCore] Event: BeforeWarp
+[14:20:32 TRACE game] Warping to BusStop
+[14:20:46 TRACE SpaceCore] Event: BeforeWarp
+[14:20:46 TRACE game] Warping to Farm
+[14:21:51 TRACE SpaceCore] Event: BeforeWarp
+[14:21:51 TRACE game] Warping to FarmHouse
+[14:21:58 TRACE SMAPI] Synchronizing 'NewDay' task...
+[14:21:59 TRACE SpaceCore] Event: ChooseNightlyFarmEvent
+[14:21:59 TRACE SpaceCore] Event: ShowNightEndMenus
+[14:21:59 DEBUG SpaceCore] Doing skill menus
+[14:21:59 TRACE SMAPI]    task complete.
+[14:21:59 TRACE SMAPI] Context: before save.
+[14:21:59 TRACE SpaceCore] Saving custom data
+[14:22:13 TRACE game] SaveGame.Save() called.
+[14:22:13 TRACE SMAPI] Synchronizing 'Save' task...
+[14:22:13 TRACE game] Saving without compression...
+[14:22:14 TRACE SMAPI]    task complete.
+[14:22:14 TRACE game] SaveGame.Save() completed without exceptions.
+[14:22:18 TRACE SMAPI] Context: after save, starting summer 8 Y3.
+[14:22:27 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[14:22:29 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[14:22:35 TRACE game] Disconnected: ClosedGame
+[14:22:35 TRACE SMAPI] Disposing...
+[14:22:35 TRACE SMAPI] Disposing the content coordinator. Content managers will no longer be usable after this point.
