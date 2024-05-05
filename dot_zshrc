@@ -11,25 +11,20 @@ autoload -Uz compinit
 compinit
 
 # Exports
-export PATH="$PATH:/home/eric/.dotnet/tools"
+export PATH="$PATH:$HOME/.cargo/bin:$HOME/.dotnet:$HOME/.dotnet/tools"
 export EDITOR=nvim
 export GAMEMODERUNEXEC="__NV_PRIME_RENDER_OFFLOAD=1 __VK_LAYER_NV_optimus=NVIDIA_only __GLX_VENDOR_LIBRARY_NAME=nvidia"
+export DOTNET_ROOT=$HOME/.dotnet
 
 # Syntax highlighting and autosuggestions
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
-
-# Command not found
-source /usr/share/doc/pkgfile/command-not-found.zsh
+source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # Aliases
 source $HOME/.aliases
 
 # Atuin
 eval "$(atuin init zsh)"
-
-# NVM
-source /usr/share/nvm/init-nvm.sh
 
 # rbenv
 eval "$(rbenv init - zsh)"
