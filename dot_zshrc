@@ -11,10 +11,7 @@ autoload -Uz compinit
 compinit
 
 # Exports
-export PATH="$PATH:$HOME/.cargo/bin:$HOME/.dotnet:$HOME/.dotnet/tools"
-export EDITOR=nvim
-export GAMEMODERUNEXEC="__NV_PRIME_RENDER_OFFLOAD=1 __VK_LAYER_NV_optimus=NVIDIA_only __GLX_VENDOR_LIBRARY_NAME=nvidia"
-export DOTNET_ROOT=$HOME/.dotnet
+source $HOME/.exports
 
 # Syntax highlighting and autosuggestions
 source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

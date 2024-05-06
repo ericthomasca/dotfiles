@@ -1,0 +1,12 @@
+# Exports
+export GAMEMODERUNEXEC="__NV_PRIME_RENDER_OFFLOAD=1 __VK_LAYER_NV_optimus=NVIDIA_only __GLX_VENDOR_LIBRARY_NAME=nvidia"
+export DOTNET_ROOT=$HOME/.dotnet
+export STEAM_FORCE_DESKTOPUI_SCALING=1.25
+
+# Path
+export CARGO_PATH="$HOME/.cargo/bin"
+export DOTNET_PATH="$HOME/.dotnet/tools:$HOME/.dotnet"
+export HOME_BIN_PATH="$HOME/bin"
+export LOCAL_BIN_PATH="$HOME/.local/bin"
+export PATH="$PATH:$CARGO_PATH:$DOTNET_PATH:$HOME_BIN_PATH:$LOCAL_BIN_PATH"
+
